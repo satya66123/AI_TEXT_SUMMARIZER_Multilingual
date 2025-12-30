@@ -100,7 +100,7 @@ Deploy frontend and backend together.
 
 👨‍💻 Author
 
-Your Name – GitHub Profile
+Your Name – Nekkanti Satya Srinath 
 
 
 ---
